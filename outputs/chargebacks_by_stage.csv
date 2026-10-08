@@ -1,0 +1,6 @@
+final_stage,outcome,chargebacks
+arbitration,lost_by_merchant,62
+arbitration,won_by_merchant,24
+first_chargeback,accepted_by_merchant,3198
+pre_arbitration,lost_by_merchant,507
+representment,won_by_merchant,684

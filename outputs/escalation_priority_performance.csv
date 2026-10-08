@@ -1,0 +1,4 @@
+priority,cases,bad,precision
+P1 urgent,123,123,1.0
+P2 EDD,63,42,0.667
+P3 review,163,0,0.0

@@ -1,0 +1,5 @@
+typology,merchants,caught,volume_rs,volume_after_alert_rs,share_stoppable
+fake_store,60.0,60.0,131582010.0,108004010.0,0.821
+mule_laundering,55.0,55.0,987345859.0,948122701.0,0.96
+sanctions_match,6.0,0.0,11014983.0,0.0,0.0
+transaction_laundering,50.0,50.0,100633950.0,86310900.0,0.858

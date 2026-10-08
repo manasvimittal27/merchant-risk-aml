@@ -1,0 +1,8 @@
+rule,target_typologies,merchants_alerted,bad_merchants_alerted,false_positive_merchants,precision,target_merchants,target_caught,target_recall,median_days_to_alert
+TM1_turnover_mismatch,"mule_laundering, transaction_laundering",266,117,149,0.44,105,73,0.695,30.0
+TM2_structuring,mule_laundering,60,55,5,0.917,55,55,1.0,34.0
+TM3_payer_concentration,mule_laundering,59,25,34,0.424,55,25,0.455,58.0
+TM4_refund_other_instrument,fake_store,61,60,1,0.984,60,60,1.0,5.0
+TM5_fraud_chargeback_ratio,fake_store,46,46,0,1.0,60,46,0.767,43.5
+TM6_business_model_mismatch,transaction_laundering,50,50,0,1.0,50,50,1.0,30.0
+TM7_account_change_surge,mule_laundering,30,28,2,0.933,55,28,0.509,37.0

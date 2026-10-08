@@ -1,0 +1,301 @@
+chargeback_id,txn_id,merchant_id,cb_date,network,reason_code,reason_desc,reason_group,amount,final_stage,outcome
+CB62093,T30347545,M21267,2026-03-25,visa,13.1,Merchandise/services not received,consumer_dispute,3250.83,first_chargeback,accepted_by_merchant
+CB63080,T30672425,M22197,2026-04-18,visa,10.4,"Other fraud, card-absent",fraud,11416.7,first_chargeback,accepted_by_merchant
+CB63533,T30765472,M21412,2026-05-02,mastercard,4837.0,No cardholder authorisation,fraud,371.1,first_chargeback,accepted_by_merchant
+CB62053,T30612515,M22482,2026-03-24,mastercard,4855.0,Goods or services not provided,consumer_dispute,2550.02,first_chargeback,accepted_by_merchant
+CB62900,T30816379,M21627,2026-04-13,mastercard,4837.0,No cardholder authorisation,fraud,3708.38,first_chargeback,accepted_by_merchant
+CB61924,T30519835,M21399,2026-03-22,mastercard,4837.0,No cardholder authorisation,fraud,2028.25,first_chargeback,accepted_by_merchant
+CB60644,T30317433,M20371,2026-02-20,mastercard,4837.0,No cardholder authorisation,fraud,939.32,first_chargeback,accepted_by_merchant
+CB63758,T30886061,M20495,2026-05-12,visa,13.1,Merchandise/services not received,consumer_dispute,1320.65,representment,won_by_merchant
+CB62410,T30479332,M20596,2026-04-01,visa,10.4,"Other fraud, card-absent",fraud,1864.63,first_chargeback,accepted_by_merchant
+CB62334,T30626696,M20470,2026-03-30,mastercard,4837.0,No cardholder authorisation,fraud,1468.3,first_chargeback,accepted_by_merchant
+CB60324,T30229934,M21412,2026-02-09,visa,12.6,Duplicate processing,technical,302.3,first_chargeback,accepted_by_merchant
+CB60349,T30011584,M20835,2026-02-10,mastercard,4834.0,Point-of-interaction error,technical,1959.92,arbitration,lost_by_merchant
+CB63601,T30792405,M21041,2026-05-04,visa,12.6,Duplicate processing,technical,10629.15,pre_arbitration,lost_by_merchant
+CB63327,T30633589,M20531,2026-04-25,mastercard,4834.0,Point-of-interaction error,technical,1760.25,first_chargeback,accepted_by_merchant
+CB61672,T30569954,M20539,2026-03-16,visa,13.1,Merchandise/services not received,consumer_dispute,324.98,first_chargeback,accepted_by_merchant
+CB61021,T30070060,M22210,2026-03-02,mastercard,4855.0,Goods or services not provided,consumer_dispute,8497.93,first_chargeback,accepted_by_merchant
+CB64110,T31149446,M20112,2026-06-03,visa,13.1,Merchandise/services not received,consumer_dispute,2383.31,representment,won_by_merchant
+CB64459,T31564526,M21406,2026-06-30,mastercard,4855.0,Goods or services not provided,consumer_dispute,565.5,pre_arbitration,lost_by_merchant
+CB64256,T31182056,M20995,2026-06-14,visa,10.4,"Other fraud, card-absent",fraud,2000.0,first_chargeback,accepted_by_merchant
+CB63444,T30744467,M21354,2026-04-29,visa,10.4,"Other fraud, card-absent",fraud,1148.08,first_chargeback,accepted_by_merchant
+CB62868,T30582560,M21115,2026-04-12,visa,13.3,Not as described,consumer_dispute,573.19,pre_arbitration,lost_by_merchant
+CB63004,T30766446,M21652,2026-04-16,visa,12.6,Duplicate processing,technical,2761.39,first_chargeback,accepted_by_merchant
+CB63398,T30701661,M20131,2026-04-27,visa,13.1,Merchandise/services not received,consumer_dispute,496.39,pre_arbitration,lost_by_merchant
+CB62866,T30602522,M21897,2026-04-12,visa,12.6,Duplicate processing,technical,2292.15,first_chargeback,accepted_by_merchant
+CB61497,T30193390,M20555,2026-03-12,mastercard,4834.0,Point-of-interaction error,technical,12261.87,first_chargeback,accepted_by_merchant
+CB60610,T30371060,M22197,2026-02-19,visa,13.1,Merchandise/services not received,consumer_dispute,9273.61,first_chargeback,accepted_by_merchant
+CB61729,T30307126,M20978,2026-03-17,mastercard,4834.0,Point-of-interaction error,technical,10189.46,first_chargeback,accepted_by_merchant
+CB60695,T30358461,M20018,2026-02-22,visa,13.3,Not as described,consumer_dispute,539.05,first_chargeback,accepted_by_merchant
+CB62726,T30557626,M21719,2026-04-09,mastercard,4837.0,No cardholder authorisation,fraud,9771.07,first_chargeback,accepted_by_merchant
+CB64310,T31107410,M21374,2026-06-19,visa,13.1,Merchandise/services not received,consumer_dispute,667.99,representment,won_by_merchant
+CB63215,T30573633,M20350,2026-04-22,mastercard,4837.0,No cardholder authorisation,fraud,9375.87,first_chargeback,accepted_by_merchant
+CB63551,T30625086,M20395,2026-05-02,visa,10.4,"Other fraud, card-absent",fraud,996.61,first_chargeback,accepted_by_merchant
+CB61073,T30138020,M20259,2026-03-03,visa,13.3,Not as described,consumer_dispute,5851.25,first_chargeback,accepted_by_merchant
+CB63277,T30729022,M21354,2026-04-24,visa,13.3,Not as described,consumer_dispute,5293.21,first_chargeback,accepted_by_merchant
+CB61195,T30198549,M20555,2026-03-06,visa,13.3,Not as described,consumer_dispute,15741.11,first_chargeback,accepted_by_merchant
+CB61865,T30454956,M20883,2026-03-20,mastercard,4837.0,No cardholder authorisation,fraud,500.0,first_chargeback,accepted_by_merchant
+CB62215,T30467248,M20001,2026-03-28,mastercard,4837.0,No cardholder authorisation,fraud,194000.0,first_chargeback,accepted_by_merchant
+CB60090,T30037748,M21855,2026-01-27,visa,13.1,Merchandise/services not received,consumer_dispute,512.7,first_chargeback,accepted_by_merchant
+CB63246,T30668214,M21991,2026-04-23,mastercard,4837.0,No cardholder authorisation,fraud,9269.61,first_chargeback,accepted_by_merchant
+CB62730,T30486812,M20997,2026-04-09,visa,10.4,"Other fraud, card-absent",fraud,4538.63,first_chargeback,accepted_by_merchant
+CB64213,T31014948,M20282,2026-06-10,visa,10.4,"Other fraud, card-absent",fraud,538.45,representment,won_by_merchant
+CB62534,T30354291,M21121,2026-04-04,visa,13.1,Merchandise/services not received,consumer_dispute,1265.75,first_chargeback,accepted_by_merchant
+CB60364,T30230933,M20915,2026-02-11,mastercard,4855.0,Goods or services not provided,consumer_dispute,2135.31,first_chargeback,accepted_by_merchant
+CB61680,T30586916,M20350,2026-03-16,mastercard,4834.0,Point-of-interaction error,technical,7448.2,first_chargeback,accepted_by_merchant
+CB63543,T30661107,M22075,2026-05-02,visa,10.4,"Other fraud, card-absent",fraud,1155.08,first_chargeback,accepted_by_merchant
+CB61577,T30373995,M21628,2026-03-14,visa,10.4,"Other fraud, card-absent",fraud,5560.09,first_chargeback,accepted_by_merchant
+CB62188,T30511371,M20620,2026-03-27,mastercard,4837.0,No cardholder authorisation,fraud,25388.9,first_chargeback,accepted_by_merchant
+CB62430,T30456605,M20329,2026-04-02,mastercard,4837.0,No cardholder authorisation,fraud,2632.73,arbitration,lost_by_merchant
+CB62068,T30565516,M21522,2026-03-24,visa,12.6,Duplicate processing,technical,320.89,representment,won_by_merchant
+CB63803,T30747367,M22009,2026-05-15,visa,13.1,Merchandise/services not received,consumer_dispute,1898.81,first_chargeback,accepted_by_merchant
+CB62773,T30762272,M20470,2026-04-10,visa,13.3,Not as described,consumer_dispute,1289.29,first_chargeback,accepted_by_merchant
+CB61926,T30497334,M21897,2026-03-22,visa,13.1,Merchandise/services not received,consumer_dispute,1436.86,first_chargeback,accepted_by_merchant
+CB60044,T30003885,M20867,2026-01-22,visa,13.1,Merchandise/services not received,consumer_dispute,913.17,pre_arbitration,lost_by_merchant
+CB60589,T30274277,M21879,2026-02-19,mastercard,4837.0,No cardholder authorisation,fraud,3301.39,first_chargeback,accepted_by_merchant
+CB60136,T30043806,M20297,2026-01-31,visa,13.3,Not as described,consumer_dispute,594.11,pre_arbitration,lost_by_merchant
+CB63375,T30695292,M20477,2026-04-27,visa,13.3,Not as described,consumer_dispute,422.51,pre_arbitration,lost_by_merchant
+CB63043,T30510150,M21266,2026-04-17,mastercard,4837.0,No cardholder authorisation,fraud,416.42,representment,won_by_merchant
+CB60343,T30218747,M21434,2026-02-10,mastercard,4837.0,No cardholder authorisation,fraud,916.76,pre_arbitration,lost_by_merchant
+CB63216,T30736436,M20350,2026-04-22,mastercard,4855.0,Goods or services not provided,consumer_dispute,17549.21,first_chargeback,accepted_by_merchant
+CB63500,T31007851,M22148,2026-05-01,mastercard,4855.0,Goods or services not provided,consumer_dispute,16528.06,first_chargeback,accepted_by_merchant
+CB60834,T30308694,M20225,2026-02-25,visa,12.6,Duplicate processing,technical,4298.47,first_chargeback,accepted_by_merchant
+CB60724,T30238155,M20225,2026-02-22,mastercard,4834.0,Point-of-interaction error,technical,1742.83,first_chargeback,accepted_by_merchant
+CB63797,T31160568,M20883,2026-05-14,visa,12.6,Duplicate processing,technical,1000.0,first_chargeback,accepted_by_merchant
+CB61417,T30465326,M21332,2026-03-11,mastercard,4834.0,Point-of-interaction error,technical,1056.19,first_chargeback,accepted_by_merchant
+CB63781,T30937453,M21729,2026-05-13,mastercard,4834.0,Point-of-interaction error,technical,289.47,pre_arbitration,lost_by_merchant
+CB62689,T30410242,M21014,2026-04-08,visa,13.3,Not as described,consumer_dispute,1016.96,pre_arbitration,lost_by_merchant
+CB62488,T30612000,M20620,2026-04-03,visa,12.6,Duplicate processing,technical,16996.74,first_chargeback,accepted_by_merchant
+CB64244,T31250448,M22240,2026-06-13,visa,12.6,Duplicate processing,technical,481.15,representment,won_by_merchant
+CB64443,T31359177,M21242,2026-06-28,mastercard,4855.0,Goods or services not provided,consumer_dispute,366.46,first_chargeback,accepted_by_merchant
+CB62745,T30412624,M21121,2026-04-09,visa,10.4,"Other fraud, card-absent",fraud,2227.44,first_chargeback,accepted_by_merchant
+CB64181,T31335413,M20924,2026-06-08,visa,12.6,Duplicate processing,technical,3817.04,first_chargeback,accepted_by_merchant
+CB60931,T30239726,M20625,2026-02-28,visa,10.4,"Other fraud, card-absent",fraud,1109.77,first_chargeback,accepted_by_merchant
+CB63310,T30681373,M20350,2026-04-25,visa,10.4,"Other fraud, card-absent",fraud,9071.98,first_chargeback,accepted_by_merchant
+CB61477,T30325765,M20625,2026-03-12,visa,13.3,Not as described,consumer_dispute,4150.54,first_chargeback,accepted_by_merchant
+CB63360,T30611484,M21991,2026-04-26,mastercard,4837.0,No cardholder authorisation,fraud,9792.64,first_chargeback,accepted_by_merchant
+CB60957,T30351895,M21691,2026-02-28,mastercard,4837.0,No cardholder authorisation,fraud,3224.07,first_chargeback,accepted_by_merchant
+CB64287,T31191839,M20315,2026-06-17,mastercard,4834.0,Point-of-interaction error,technical,421.0,first_chargeback,accepted_by_merchant
+CB63218,T30525162,M20571,2026-04-22,visa,12.6,Duplicate processing,technical,1686.46,first_chargeback,accepted_by_merchant
+CB61673,T30153352,M22310,2026-03-16,mastercard,4855.0,Goods or services not provided,consumer_dispute,8139.02,first_chargeback,accepted_by_merchant
+CB62739,T30796573,M20918,2026-04-09,mastercard,4837.0,No cardholder authorisation,fraud,21048.16,first_chargeback,accepted_by_merchant
+CB60808,T30316852,M20371,2026-02-24,visa,12.6,Duplicate processing,technical,1207.16,first_chargeback,accepted_by_merchant
+CB60940,T30467441,M21742,2026-02-28,mastercard,4834.0,Point-of-interaction error,technical,18083.83,pre_arbitration,lost_by_merchant
+CB61213,T30227581,M22277,2026-03-06,visa,10.4,"Other fraud, card-absent",fraud,3194.44,first_chargeback,accepted_by_merchant
+CB62939,T30440072,M21628,2026-04-14,visa,10.4,"Other fraud, card-absent",fraud,43951.51,first_chargeback,accepted_by_merchant
+CB63180,T30515803,M20333,2026-04-21,mastercard,4834.0,Point-of-interaction error,technical,1106.21,representment,won_by_merchant
+CB61893,T30410979,M21712,2026-03-21,visa,12.6,Duplicate processing,technical,131.23,first_chargeback,accepted_by_merchant
+CB60566,T30293004,M20235,2026-02-18,visa,10.4,"Other fraud, card-absent",fraud,928.34,pre_arbitration,lost_by_merchant
+CB62872,T30501117,M20914,2026-04-12,visa,13.3,Not as described,consumer_dispute,1163.38,first_chargeback,accepted_by_merchant
+CB61050,T30447750,M20629,2026-03-03,mastercard,4855.0,Goods or services not provided,consumer_dispute,1492.17,first_chargeback,accepted_by_merchant
+CB60906,T30240365,M20915,2026-02-27,visa,13.3,Not as described,consumer_dispute,3139.27,first_chargeback,accepted_by_merchant
+CB60222,T30221890,M21863,2026-02-05,visa,13.1,Merchandise/services not received,consumer_dispute,3511.99,first_chargeback,accepted_by_merchant
+CB62727,T30414438,M21628,2026-04-09,visa,12.6,Duplicate processing,technical,11442.92,first_chargeback,accepted_by_merchant
+CB64089,T31277061,M20231,2026-06-01,visa,10.4,"Other fraud, card-absent",fraud,1164.58,representment,won_by_merchant
+CB60102,T30119424,M20370,2026-01-28,mastercard,4855.0,Goods or services not provided,consumer_dispute,724.03,first_chargeback,accepted_by_merchant
+CB64140,T31178035,M21838,2026-06-05,visa,13.3,Not as described,consumer_dispute,4764.5,representment,won_by_merchant
+CB61123,T30354432,M20997,2026-03-04,visa,12.6,Duplicate processing,technical,1677.66,first_chargeback,accepted_by_merchant
+CB62284,T30679362,M20914,2026-03-29,visa,13.1,Merchandise/services not received,consumer_dispute,5314.59,first_chargeback,accepted_by_merchant
+CB60098,T30025596,M22214,2026-01-28,visa,13.1,Merchandise/services not received,consumer_dispute,1007.28,representment,won_by_merchant
+CB61488,T30600331,M20350,2026-03-12,visa,10.4,"Other fraud, card-absent",fraud,7292.21,first_chargeback,accepted_by_merchant
+CB63418,T30662702,M21235,2026-04-28,visa,12.6,Duplicate processing,technical,683.29,first_chargeback,accepted_by_merchant
+CB63860,T30811292,M21652,2026-05-17,mastercard,4837.0,No cardholder authorisation,fraud,1622.13,first_chargeback,accepted_by_merchant
+CB64369,T31153176,M21352,2026-06-23,mastercard,4834.0,Point-of-interaction error,technical,1142.46,pre_arbitration,lost_by_merchant
+CB64177,T31258509,M20803,2026-06-08,visa,13.3,Not as described,consumer_dispute,6400.32,first_chargeback,accepted_by_merchant
+CB63025,T30504031,M21527,2026-04-17,visa,12.6,Duplicate processing,technical,182.9,representment,won_by_merchant
+CB63745,T31154377,M21241,2026-05-12,mastercard,4834.0,Point-of-interaction error,technical,528.13,pre_arbitration,lost_by_merchant
+CB62313,T30581727,M21290,2026-03-30,visa,10.4,"Other fraud, card-absent",fraud,434.15,first_chargeback,accepted_by_merchant
+CB63653,T30821308,M21556,2026-05-07,visa,10.4,"Other fraud, card-absent",fraud,730.22,pre_arbitration,lost_by_merchant
+CB64444,T31467854,M20477,2026-06-28,visa,12.6,Duplicate processing,technical,389.2,first_chargeback,accepted_by_merchant
+CB62933,T30613168,M20918,2026-04-14,mastercard,4837.0,No cardholder authorisation,fraud,11231.14,first_chargeback,accepted_by_merchant
+CB64019,T31300473,M21920,2026-05-27,visa,13.1,Merchandise/services not received,consumer_dispute,5066.49,first_chargeback,accepted_by_merchant
+CB63436,T30728903,M20663,2026-04-28,visa,10.4,"Other fraud, card-absent",fraud,1745.43,first_chargeback,accepted_by_merchant
+CB63048,T30477503,M20404,2026-04-17,visa,10.4,"Other fraud, card-absent",fraud,1317.24,first_chargeback,accepted_by_merchant
+CB62480,T30362358,M20128,2026-04-03,mastercard,4837.0,No cardholder authorisation,fraud,1286.62,pre_arbitration,lost_by_merchant
+CB60133,T30180475,M22049,2026-01-31,mastercard,4837.0,No cardholder authorisation,fraud,2198.57,first_chargeback,accepted_by_merchant
+CB61179,T30313243,M20308,2026-03-06,mastercard,4834.0,Point-of-interaction error,technical,1202.75,arbitration,won_by_merchant
+CB60769,T30248988,M21121,2026-02-24,mastercard,4837.0,No cardholder authorisation,fraud,939.6,first_chargeback,accepted_by_merchant
+CB63769,T30699659,M21991,2026-05-13,mastercard,4837.0,No cardholder authorisation,fraud,18875.54,representment,won_by_merchant
+CB62850,T30509403,M20629,2026-04-12,mastercard,4837.0,No cardholder authorisation,fraud,1652.57,first_chargeback,accepted_by_merchant
+CB60040,T30114956,M20632,2026-01-21,mastercard,4837.0,No cardholder authorisation,fraud,1847.72,first_chargeback,accepted_by_merchant
+CB62340,T30423613,M20629,2026-03-31,visa,13.1,Merchandise/services not received,consumer_dispute,1487.03,first_chargeback,accepted_by_merchant
+CB64404,T31324802,M22165,2026-06-25,visa,13.1,Merchandise/services not received,consumer_dispute,4660.28,representment,won_by_merchant
+CB60062,T30017530,M22310,2026-01-24,visa,13.1,Merchandise/services not received,consumer_dispute,9379.06,first_chargeback,accepted_by_merchant
+CB62281,T30726404,M20404,2026-03-29,visa,10.4,"Other fraud, card-absent",fraud,1378.71,first_chargeback,accepted_by_merchant
+CB61703,T30567254,M20128,2026-03-17,visa,13.1,Merchandise/services not received,consumer_dispute,1337.83,arbitration,lost_by_merchant
+CB63842,T31001070,M21976,2026-05-17,visa,12.6,Duplicate processing,technical,442.01,pre_arbitration,lost_by_merchant
+CB60990,T30068506,M20514,2026-03-01,mastercard,4837.0,No cardholder authorisation,fraud,164.0,representment,won_by_merchant
+CB61647,T30575051,M20350,2026-03-16,visa,10.4,"Other fraud, card-absent",fraud,19605.17,first_chargeback,accepted_by_merchant
+CB60840,T30049582,M21463,2026-02-25,visa,12.6,Duplicate processing,technical,2068.99,first_chargeback,accepted_by_merchant
+CB61105,T30170138,M21964,2026-03-04,visa,12.6,Duplicate processing,technical,16369.64,first_chargeback,accepted_by_merchant
+CB63194,T30900238,M21431,2026-04-21,mastercard,4834.0,Point-of-interaction error,technical,2407.36,first_chargeback,accepted_by_merchant
+CB60913,T30189975,M22049,2026-02-27,visa,12.6,Duplicate processing,technical,421.03,first_chargeback,accepted_by_merchant
+CB61227,T30260753,M20625,2026-03-07,mastercard,4837.0,No cardholder authorisation,fraud,2903.16,first_chargeback,accepted_by_merchant
+CB63256,T30538636,M22346,2026-04-23,visa,10.4,"Other fraud, card-absent",fraud,100.0,first_chargeback,accepted_by_merchant
+CB62682,T30649624,M21399,2026-04-08,mastercard,4837.0,No cardholder authorisation,fraud,1312.15,first_chargeback,accepted_by_merchant
+CB60200,T30184588,M22049,2026-02-04,visa,10.4,"Other fraud, card-absent",fraud,2791.3,first_chargeback,accepted_by_merchant
+CB60161,T30192659,M20851,2026-02-01,mastercard,4837.0,No cardholder authorisation,fraud,11095.02,first_chargeback,accepted_by_merchant
+CB61061,T30270431,M20625,2026-03-03,visa,12.6,Duplicate processing,technical,1210.23,first_chargeback,accepted_by_merchant
+CB63896,T31105105,M20651,2026-05-19,visa,13.1,Merchandise/services not received,consumer_dispute,5639.03,pre_arbitration,lost_by_merchant
+CB61648,T30189431,M20632,2026-03-16,visa,10.4,"Other fraud, card-absent",fraud,3207.67,first_chargeback,accepted_by_merchant
+CB63949,T30792615,M21431,2026-05-22,visa,12.6,Duplicate processing,technical,1665.93,first_chargeback,accepted_by_merchant
+CB62236,T30604156,M21276,2026-03-28,mastercard,4837.0,No cardholder authorisation,fraud,5356.47,first_chargeback,accepted_by_merchant
+CB60017,T30088290,M20851,2026-01-17,visa,10.4,"Other fraud, card-absent",fraud,10879.14,first_chargeback,accepted_by_merchant
+CB64303,T31226466,M20228,2026-06-18,visa,12.6,Duplicate processing,technical,368.38,representment,won_by_merchant
+CB61896,T30572562,M21719,2026-03-21,mastercard,4837.0,No cardholder authorisation,fraud,7044.53,representment,won_by_merchant
+CB63883,T30899286,M21483,2026-05-19,mastercard,4834.0,Point-of-interaction error,technical,1689.55,pre_arbitration,lost_by_merchant
+CB60787,T30370144,M21267,2026-02-24,visa,12.6,Duplicate processing,technical,1645.85,first_chargeback,accepted_by_merchant
+CB62852,T30397794,M20495,2026-04-12,visa,13.3,Not as described,consumer_dispute,1885.91,representment,won_by_merchant
+CB62886,T30737322,M20470,2026-04-13,mastercard,4855.0,Goods or services not provided,consumer_dispute,3511.21,first_chargeback,accepted_by_merchant
+CB62051,T30680448,M20128,2026-03-24,visa,10.4,"Other fraud, card-absent",fraud,1011.51,first_chargeback,accepted_by_merchant
+CB60881,T30266238,M21472,2026-02-26,visa,13.3,Not as described,consumer_dispute,3561.2,representment,won_by_merchant
+CB62750,T30731749,M22145,2026-04-10,visa,12.6,Duplicate processing,technical,15660.85,arbitration,lost_by_merchant
+CB64403,T31418544,M21050,2026-06-25,visa,12.6,Duplicate processing,technical,2300.06,first_chargeback,accepted_by_merchant
+CB62597,T30771480,M22112,2026-04-06,mastercard,4855.0,Goods or services not provided,consumer_dispute,246.01,pre_arbitration,lost_by_merchant
+CB61943,T30411265,M21267,2026-03-22,mastercard,4855.0,Goods or services not provided,consumer_dispute,1661.77,first_chargeback,accepted_by_merchant
+CB61169,T30333814,M20579,2026-03-05,visa,12.6,Duplicate processing,technical,35511.93,first_chargeback,accepted_by_merchant
+CB63278,T30767079,M20680,2026-04-24,visa,13.3,Not as described,consumer_dispute,876.11,first_chargeback,accepted_by_merchant
+CB63628,T30784492,M21652,2026-05-05,visa,13.1,Merchandise/services not received,consumer_dispute,5683.25,pre_arbitration,lost_by_merchant
+CB62078,T30381174,M21897,2026-03-25,mastercard,4837.0,No cardholder authorisation,fraud,2101.04,first_chargeback,accepted_by_merchant
+CB63509,T30707798,M22448,2026-05-01,visa,10.4,"Other fraud, card-absent",fraud,120.35,pre_arbitration,lost_by_merchant
+CB62828,T30781998,M20470,2026-04-11,mastercard,4837.0,No cardholder authorisation,fraud,1132.42,first_chargeback,accepted_by_merchant
+CB62995,T30548721,M20620,2026-04-16,visa,10.4,"Other fraud, card-absent",fraud,17122.96,representment,won_by_merchant
+CB61540,T30614481,M20531,2026-03-13,visa,10.4,"Other fraud, card-absent",fraud,2060.91,first_chargeback,accepted_by_merchant
+CB63777,T30931969,M21394,2026-05-13,mastercard,4834.0,Point-of-interaction error,technical,6886.62,first_chargeback,accepted_by_merchant
+CB60366,T30230457,M21096,2026-02-11,mastercard,4834.0,Point-of-interaction error,technical,4744.45,first_chargeback,accepted_by_merchant
+CB61155,T30226746,M22277,2026-03-05,visa,13.1,Merchandise/services not received,consumer_dispute,3734.95,first_chargeback,accepted_by_merchant
+CB62972,T30887216,M20006,2026-04-15,mastercard,4855.0,Goods or services not provided,consumer_dispute,1776.78,first_chargeback,accepted_by_merchant
+CB63505,T30629748,M21991,2026-05-01,visa,10.4,"Other fraud, card-absent",fraud,15944.4,first_chargeback,accepted_by_merchant
+CB62692,T30540186,M21738,2026-04-08,mastercard,4834.0,Point-of-interaction error,technical,1181.47,first_chargeback,accepted_by_merchant
+CB64250,T31016437,M21810,2026-06-14,mastercard,4855.0,Goods or services not provided,consumer_dispute,5019.81,first_chargeback,accepted_by_merchant
+CB63928,T30857540,M21889,2026-05-21,mastercard,4834.0,Point-of-interaction error,technical,24111.19,representment,won_by_merchant
+CB62533,T30525941,M22276,2026-04-04,visa,10.4,"Other fraud, card-absent",fraud,734.86,pre_arbitration,lost_by_merchant
+CB62569,T30549897,M22378,2026-04-05,visa,12.6,Duplicate processing,technical,307.4,first_chargeback,accepted_by_merchant
+CB64410,T31574350,M20093,2026-06-26,mastercard,4855.0,Goods or services not provided,consumer_dispute,381.74,pre_arbitration,lost_by_merchant
+CB63755,T30787453,M21554,2026-05-12,visa,13.3,Not as described,consumer_dispute,668.73,first_chargeback,accepted_by_merchant
+CB60891,T30351077,M20676,2026-02-27,visa,12.6,Duplicate processing,technical,1201.64,first_chargeback,accepted_by_merchant
+CB60870,T30118960,M21940,2026-02-26,visa,10.4,"Other fraud, card-absent",fraud,1165.34,first_chargeback,accepted_by_merchant
+CB62625,T30566653,M20997,2026-04-06,visa,13.1,Merchandise/services not received,consumer_dispute,1860.12,first_chargeback,accepted_by_merchant
+CB60032,T30013783,M22144,2026-01-20,visa,10.4,"Other fraud, card-absent",fraud,393.48,pre_arbitration,lost_by_merchant
+CB63307,T30915378,M21991,2026-04-25,visa,13.3,Not as described,consumer_dispute,7634.23,first_chargeback,accepted_by_merchant
+CB60021,T30034004,M20851,2026-01-19,visa,10.4,"Other fraud, card-absent",fraud,15282.13,first_chargeback,accepted_by_merchant
+CB62336,T30335485,M22096,2026-03-31,visa,10.4,"Other fraud, card-absent",fraud,1408.39,first_chargeback,accepted_by_merchant
+CB60094,T30122490,M20579,2026-01-28,visa,13.1,Merchandise/services not received,consumer_dispute,3513.63,first_chargeback,accepted_by_merchant
+CB63808,T31197600,M20663,2026-05-15,mastercard,4855.0,Goods or services not provided,consumer_dispute,5290.09,arbitration,won_by_merchant
+CB64101,T31002455,M20618,2026-06-02,mastercard,4837.0,No cardholder authorisation,fraud,185.3,first_chargeback,accepted_by_merchant
+CB62010,T30486143,M22096,2026-03-23,visa,10.4,"Other fraud, card-absent",fraud,925.91,first_chargeback,accepted_by_merchant
+CB62105,T30226228,M20851,2026-03-25,visa,13.1,Merchandise/services not received,consumer_dispute,15563.09,pre_arbitration,lost_by_merchant
+CB60407,T30268208,M21267,2026-02-12,visa,13.1,Merchandise/services not received,consumer_dispute,1121.68,first_chargeback,accepted_by_merchant
+CB63441,T30632586,M20564,2026-04-29,mastercard,4837.0,No cardholder authorisation,fraud,7344.71,first_chargeback,accepted_by_merchant
+CB64207,T31261508,M20046,2026-06-09,visa,12.6,Duplicate processing,technical,1575.5,first_chargeback,accepted_by_merchant
+CB63220,T30518739,M20918,2026-04-22,mastercard,4837.0,No cardholder authorisation,fraud,12199.78,first_chargeback,accepted_by_merchant
+CB64466,T31222035,M22077,2026-06-30,visa,13.1,Merchandise/services not received,consumer_dispute,27197.05,first_chargeback,accepted_by_merchant
+CB64034,T31166111,M21342,2026-05-28,mastercard,4834.0,Point-of-interaction error,technical,22157.68,first_chargeback,accepted_by_merchant
+CB64276,T31128240,M20736,2026-06-16,visa,13.1,Merchandise/services not received,consumer_dispute,705.74,first_chargeback,accepted_by_merchant
+CB61749,T30587830,M20531,2026-03-18,mastercard,4855.0,Goods or services not provided,consumer_dispute,1199.64,pre_arbitration,lost_by_merchant
+CB60729,T30247720,M20625,2026-02-22,mastercard,4837.0,No cardholder authorisation,fraud,718.45,first_chargeback,accepted_by_merchant
+CB63604,T31048285,M20054,2026-05-04,visa,13.3,Not as described,consumer_dispute,13075.41,first_chargeback,accepted_by_merchant
+CB62427,T30591747,M21652,2026-04-02,visa,10.4,"Other fraud, card-absent",fraud,1827.68,first_chargeback,accepted_by_merchant
+CB62146,T30238876,M20978,2026-03-26,mastercard,4837.0,No cardholder authorisation,fraud,10994.81,representment,won_by_merchant
+CB60758,T30213072,M22277,2026-02-23,mastercard,4834.0,Point-of-interaction error,technical,1339.25,first_chargeback,accepted_by_merchant
+CB63993,T31040148,M22222,2026-05-24,mastercard,4834.0,Point-of-interaction error,technical,1662.91,pre_arbitration,lost_by_merchant
+CB62897,T30573910,M22085,2026-04-13,mastercard,4837.0,No cardholder authorisation,fraud,4503.21,pre_arbitration,lost_by_merchant
+CB61364,T30554261,M20918,2026-03-10,mastercard,4837.0,No cardholder authorisation,fraud,20055.89,pre_arbitration,lost_by_merchant
+CB64192,T31208373,M20493,2026-06-09,visa,13.1,Merchandise/services not received,consumer_dispute,197.56,first_chargeback,accepted_by_merchant
+CB61906,T30616522,M22010,2026-03-21,visa,10.4,"Other fraud, card-absent",fraud,14350.48,first_chargeback,accepted_by_merchant
+CB60420,T30329559,M21634,2026-02-13,mastercard,4837.0,No cardholder authorisation,fraud,200.0,arbitration,lost_by_merchant
+CB63320,T30681213,M20470,2026-04-25,visa,12.6,Duplicate processing,technical,2436.96,representment,won_by_merchant
+CB63328,T30950258,M22066,2026-04-25,visa,12.6,Duplicate processing,technical,2885.52,first_chargeback,accepted_by_merchant
+CB60662,T30185098,M22210,2026-02-21,mastercard,4837.0,No cardholder authorisation,fraud,22100.26,first_chargeback,accepted_by_merchant
+CB62279,T30429300,M20395,2026-03-29,mastercard,4837.0,No cardholder authorisation,fraud,1604.95,first_chargeback,accepted_by_merchant
+CB62603,T30654101,M20885,2026-04-06,visa,13.1,Merchandise/services not received,consumer_dispute,13108.76,pre_arbitration,lost_by_merchant
+CB62627,T30701095,M21627,2026-04-06,mastercard,4837.0,No cardholder authorisation,fraud,28570.07,first_chargeback,accepted_by_merchant
+CB62399,T30506965,M20620,2026-04-01,mastercard,4837.0,No cardholder authorisation,fraud,17272.63,first_chargeback,accepted_by_merchant
+CB61273,T30506699,M20637,2026-03-08,visa,13.3,Not as described,consumer_dispute,644.99,representment,won_by_merchant
+CB62836,T30437005,M22197,2026-04-12,mastercard,4855.0,Goods or services not provided,consumer_dispute,6942.33,first_chargeback,accepted_by_merchant
+CB60099,T30162911,M22210,2026-01-28,mastercard,4837.0,No cardholder authorisation,fraud,5568.36,first_chargeback,accepted_by_merchant
+CB61441,T30403901,M20571,2026-03-11,visa,10.4,"Other fraud, card-absent",fraud,2373.98,first_chargeback,accepted_by_merchant
+CB64141,T31266559,M20901,2026-06-05,visa,10.4,"Other fraud, card-absent",fraud,248.24,first_chargeback,accepted_by_merchant
+CB61723,T30288871,M22348,2026-03-17,mastercard,4834.0,Point-of-interaction error,technical,152.39,representment,won_by_merchant
+CB61736,T30486306,M21434,2026-03-17,mastercard,4834.0,Point-of-interaction error,technical,242.63,representment,won_by_merchant
+CB62633,T30621243,M20395,2026-04-06,visa,13.3,Not as described,consumer_dispute,2982.2,first_chargeback,accepted_by_merchant
+CB61453,T30476896,M21121,2026-03-12,mastercard,4834.0,Point-of-interaction error,technical,1538.84,first_chargeback,accepted_by_merchant
+CB64128,T31166059,M22454,2026-06-04,visa,12.6,Duplicate processing,technical,777.98,pre_arbitration,lost_by_merchant
+CB63852,T30856411,M21354,2026-05-17,visa,13.3,Not as described,consumer_dispute,1600.94,first_chargeback,accepted_by_merchant
+CB62311,T30419641,M20908,2026-03-30,visa,10.4,"Other fraud, card-absent",fraud,1358.66,first_chargeback,accepted_by_merchant
+CB60190,T30062688,M20632,2026-02-03,mastercard,4855.0,Goods or services not provided,consumer_dispute,1114.5,first_chargeback,accepted_by_merchant
+CB61143,T30496594,M21399,2026-03-05,visa,10.4,"Other fraud, card-absent",fraud,2132.16,first_chargeback,accepted_by_merchant
+CB64258,T31471047,M20038,2026-06-15,mastercard,4855.0,Goods or services not provided,consumer_dispute,99.65,first_chargeback,accepted_by_merchant
+CB60993,T30245822,M21096,2026-03-01,visa,10.4,"Other fraud, card-absent",fraud,3428.95,first_chargeback,accepted_by_merchant
+CB61456,T30249444,M21267,2026-03-12,visa,13.1,Merchandise/services not received,consumer_dispute,1290.49,first_chargeback,accepted_by_merchant
+CB63899,T31156832,M21216,2026-05-19,visa,12.6,Duplicate processing,technical,291.34,first_chargeback,accepted_by_merchant
+CB60299,T30074639,M21217,2026-02-08,mastercard,4837.0,No cardholder authorisation,fraud,449.8,representment,won_by_merchant
+CB64149,T31217593,M22177,2026-06-06,visa,13.3,Not as described,consumer_dispute,811.63,arbitration,lost_by_merchant
+CB63494,T30708060,M20470,2026-04-30,mastercard,4837.0,No cardholder authorisation,fraud,2984.33,first_chargeback,accepted_by_merchant
+CB64051,T31247167,M21699,2026-05-29,mastercard,4855.0,Goods or services not provided,consumer_dispute,338.35,representment,won_by_merchant
+CB61885,T30333709,M20032,2026-03-21,visa,10.4,"Other fraud, card-absent",fraud,1976.43,pre_arbitration,lost_by_merchant
+CB63782,T31125420,M22092,2026-05-14,visa,13.3,Not as described,consumer_dispute,298.43,representment,won_by_merchant
+CB60761,T30002970,M22377,2026-02-23,visa,13.3,Not as described,consumer_dispute,9438.26,first_chargeback,accepted_by_merchant
+CB62323,T30767549,M20531,2026-03-30,mastercard,4834.0,Point-of-interaction error,technical,2340.84,first_chargeback,accepted_by_merchant
+CB60331,T30035054,M21603,2026-02-10,visa,12.6,Duplicate processing,technical,11357.06,representment,won_by_merchant
+CB61410,T30143474,M21109,2026-03-10,visa,12.6,Duplicate processing,technical,13225.63,pre_arbitration,lost_by_merchant
+CB62423,T30462318,M20596,2026-04-01,mastercard,4837.0,No cardholder authorisation,fraud,1592.01,first_chargeback,accepted_by_merchant
+CB64302,T31095393,M21354,2026-06-18,mastercard,4834.0,Point-of-interaction error,technical,2110.47,first_chargeback,accepted_by_merchant
+CB63964,T31071843,M20952,2026-05-23,visa,10.4,"Other fraud, card-absent",fraud,429.68,representment,won_by_merchant
+CB60636,T30374084,M20596,2026-02-20,visa,10.4,"Other fraud, card-absent",fraud,1698.64,first_chargeback,accepted_by_merchant
+CB60329,T30114646,M20579,2026-02-10,visa,10.4,"Other fraud, card-absent",fraud,16068.86,first_chargeback,accepted_by_merchant
+CB63920,T30858473,M20351,2026-05-21,mastercard,4855.0,Goods or services not provided,consumer_dispute,619.16,pre_arbitration,lost_by_merchant
+CB64239,T31194875,M20747,2026-06-13,visa,13.1,Merchandise/services not received,consumer_dispute,1066.55,first_chargeback,accepted_by_merchant
+CB62032,T30279054,M20555,2026-03-24,mastercard,4837.0,No cardholder authorisation,fraud,21684.86,first_chargeback,accepted_by_merchant
+CB63023,T30590812,M20959,2026-04-17,visa,12.6,Duplicate processing,technical,1131.31,representment,won_by_merchant
+CB61141,T30267465,M20225,2026-03-05,visa,13.3,Not as described,consumer_dispute,1762.86,first_chargeback,accepted_by_merchant
+CB62950,T30428852,M20395,2026-04-14,visa,12.6,Duplicate processing,technical,1499.36,first_chargeback,accepted_by_merchant
+CB61651,T30268087,M20625,2026-03-16,mastercard,4837.0,No cardholder authorisation,fraud,3335.42,first_chargeback,accepted_by_merchant
+CB60219,T30223064,M20632,2026-02-05,visa,10.4,"Other fraud, card-absent",fraud,3402.92,first_chargeback,accepted_by_merchant
+CB62263,T30537077,M21691,2026-03-29,mastercard,4834.0,Point-of-interaction error,technical,8009.37,first_chargeback,accepted_by_merchant
+CB62448,T30613291,M21652,2026-04-02,mastercard,4855.0,Goods or services not provided,consumer_dispute,870.13,first_chargeback,accepted_by_merchant
+CB63887,T31099430,M22135,2026-05-19,visa,10.4,"Other fraud, card-absent",fraud,1279.2,first_chargeback,accepted_by_merchant
+CB64048,T31149081,M21091,2026-05-29,mastercard,4837.0,No cardholder authorisation,fraud,866.82,first_chargeback,accepted_by_merchant
+CB60372,T30274810,M21691,2026-02-11,mastercard,4837.0,No cardholder authorisation,fraud,12057.17,first_chargeback,accepted_by_merchant
+CB64084,T31160901,M20554,2026-06-01,visa,13.3,Not as described,consumer_dispute,3450.64,first_chargeback,accepted_by_merchant
+CB62864,T30869599,M21050,2026-04-12,visa,10.4,"Other fraud, card-absent",fraud,1383.28,pre_arbitration,lost_by_merchant
+CB63033,T30935685,M20238,2026-04-17,visa,13.1,Merchandise/services not received,consumer_dispute,350.67,first_chargeback,accepted_by_merchant
+CB62963,T30612967,M21547,2026-04-15,mastercard,4837.0,No cardholder authorisation,fraud,431.52,pre_arbitration,lost_by_merchant
+CB63203,T30546467,M20629,2026-04-22,visa,10.4,"Other fraud, card-absent",fraud,4382.49,first_chargeback,accepted_by_merchant
+CB63240,T30758949,M20599,2026-04-23,visa,13.3,Not as described,consumer_dispute,25834.91,pre_arbitration,lost_by_merchant
+CB64002,T31084626,M20958,2026-05-26,visa,13.1,Merchandise/services not received,consumer_dispute,394.44,first_chargeback,accepted_by_merchant
+CB61754,T30611431,M20908,2026-03-18,visa,10.4,"Other fraud, card-absent",fraud,1909.75,first_chargeback,accepted_by_merchant
+CB61296,T30353948,M20350,2026-03-08,mastercard,4837.0,No cardholder authorisation,fraud,29898.22,first_chargeback,accepted_by_merchant
+CB63352,T30720035,M21991,2026-04-26,mastercard,4855.0,Goods or services not provided,consumer_dispute,15949.07,first_chargeback,accepted_by_merchant
+CB62749,T30399376,M20625,2026-04-10,mastercard,4837.0,No cardholder authorisation,fraud,1536.96,first_chargeback,accepted_by_merchant
+CB61674,T30556810,M20564,2026-03-16,visa,12.6,Duplicate processing,technical,35211.99,first_chargeback,accepted_by_merchant
+CB60028,T30071898,M20915,2026-01-20,mastercard,4837.0,No cardholder authorisation,fraud,1952.12,first_chargeback,accepted_by_merchant
+CB61535,T30380653,M20555,2026-03-13,mastercard,4855.0,Goods or services not provided,consumer_dispute,13489.69,first_chargeback,accepted_by_merchant
+CB64430,T31258321,M22095,2026-06-27,visa,10.4,"Other fraud, card-absent",fraud,46877.6,first_chargeback,accepted_by_merchant
+CB64286,T31125792,M21046,2026-06-17,mastercard,4837.0,No cardholder authorisation,fraud,3419.19,arbitration,lost_by_merchant
+CB61399,T30208648,M21592,2026-03-10,mastercard,4834.0,Point-of-interaction error,technical,683.32,representment,won_by_merchant
+CB62129,T30496161,M20564,2026-03-26,visa,12.6,Duplicate processing,technical,8730.19,first_chargeback,accepted_by_merchant
+CB61020,T30422082,M20953,2026-03-02,visa,10.4,"Other fraud, card-absent",fraud,2603.0,first_chargeback,accepted_by_merchant
+CB60394,T30315002,M22277,2026-02-12,mastercard,4855.0,Goods or services not provided,consumer_dispute,1071.12,first_chargeback,accepted_by_merchant
+CB60494,T30307992,M21267,2026-02-15,mastercard,4855.0,Goods or services not provided,consumer_dispute,1513.66,first_chargeback,accepted_by_merchant
+CB61845,T30353851,M21879,2026-03-20,visa,13.1,Merchandise/services not received,consumer_dispute,490.52,first_chargeback,accepted_by_merchant
+CB62015,T30448088,M21121,2026-03-23,visa,12.6,Duplicate processing,technical,1590.58,first_chargeback,accepted_by_merchant
+CB61783,T30462905,M20395,2026-03-18,visa,13.3,Not as described,consumer_dispute,2470.57,first_chargeback,accepted_by_merchant
+CB61759,T30325258,M21123,2026-03-18,mastercard,4855.0,Goods or services not provided,consumer_dispute,277.68,first_chargeback,accepted_by_merchant
+CB61102,T30428672,M20884,2026-03-04,mastercard,4855.0,Goods or services not provided,consumer_dispute,901.97,representment,won_by_merchant
+CB60123,T30041025,M21913,2026-01-30,mastercard,4834.0,Point-of-interaction error,technical,313.41,first_chargeback,accepted_by_merchant
+CB63598,T30744245,M21991,2026-05-04,mastercard,4837.0,No cardholder authorisation,fraud,6644.73,first_chargeback,accepted_by_merchant
+CB63761,T30738861,M20350,2026-05-13,visa,10.4,"Other fraud, card-absent",fraud,19308.05,first_chargeback,accepted_by_merchant
+CB64267,T31047812,M22474,2026-06-15,mastercard,4855.0,Goods or services not provided,consumer_dispute,409.08,first_chargeback,accepted_by_merchant
+CB63071,T30909985,M21422,2026-04-18,mastercard,4855.0,Goods or services not provided,consumer_dispute,212.01,first_chargeback,accepted_by_merchant
+CB61236,T30230118,M21121,2026-03-07,visa,10.4,"Other fraud, card-absent",fraud,1872.42,first_chargeback,accepted_by_merchant
+CB63921,T31211995,M21115,2026-05-21,mastercard,4855.0,Goods or services not provided,consumer_dispute,277.55,representment,won_by_merchant
+CB60678,T30411432,M21419,2026-02-21,mastercard,4837.0,No cardholder authorisation,fraud,475.99,pre_arbitration,lost_by_merchant
+CB62264,T30536654,M21691,2026-03-29,visa,12.6,Duplicate processing,technical,12904.63,first_chargeback,accepted_by_merchant
+CB60804,T30298482,M21628,2026-02-24,visa,10.4,"Other fraud, card-absent",fraud,19388.97,first_chargeback,accepted_by_merchant
+CB60100,T30058741,M20632,2026-01-28,visa,13.1,Merchandise/services not received,consumer_dispute,899.4,first_chargeback,accepted_by_merchant
+CB63335,T30566574,M20281,2026-04-25,visa,13.1,Merchandise/services not received,consumer_dispute,3429.68,representment,won_by_merchant
+CB61958,T30515064,M20371,2026-03-22,mastercard,4837.0,No cardholder authorisation,fraud,1100.64,first_chargeback,accepted_by_merchant
+CB63511,T30630768,M22096,2026-05-01,visa,12.6,Duplicate processing,technical,3168.15,first_chargeback,accepted_by_merchant
+CB63287,T30865133,M22024,2026-04-24,mastercard,4837.0,No cardholder authorisation,fraud,1262.21,first_chargeback,accepted_by_merchant
+CB63593,T30759717,M21354,2026-05-04,mastercard,4837.0,No cardholder authorisation,fraud,2571.58,first_chargeback,accepted_by_merchant

@@ -1,0 +1,146 @@
+{
+  "sanctions": {
+    "directors_screened": 2500,
+    "name_only_alerts": 610,
+    "after_identifiers_escalated": 6,
+    "partial_review": 40,
+    "true_matches": 6,
+    "true_matches_escalated": 6,
+    "true_matches_exact_name": 3
+  },
+  "onboarding": {
+    "table": [
+      {
+        "onboarding_rating": "Low",
+        "merchants": 2172,
+        "bad": 34,
+        "bad_rate": 0.016,
+        "share_of_all_bad": 0.199
+      },
+      {
+        "onboarding_rating": "Medium",
+        "merchants": 261,
+        "bad": 78,
+        "bad_rate": 0.299,
+        "share_of_all_bad": 0.456
+      },
+      {
+        "onboarding_rating": "High",
+        "merchants": 67,
+        "bad": 59,
+        "bad_rate": 0.881,
+        "share_of_all_bad": 0.345
+      }
+    ],
+    "by_typology": {
+      "fake_store": {
+        "Low": 19,
+        "Medium": 39,
+        "High": 2
+      },
+      "mule_laundering": {
+        "Low": 7,
+        "Medium": 30,
+        "High": 18
+      },
+      "sanctions_match": {
+        "Low": 0,
+        "Medium": 0,
+        "High": 6
+      },
+      "transaction_laundering": {
+        "Low": 8,
+        "Medium": 9,
+        "High": 33
+      }
+    }
+  },
+  "monitoring": {
+    "merchants_alerted": 349,
+    "bad_caught": 165,
+    "behavioural_bad_total": 165,
+    "behavioural_bad_caught": 165,
+    "false_positive_merchants": 184,
+    "priority": [
+      {
+        "priority": "P1 urgent",
+        "cases": 123,
+        "bad": 123,
+        "precision": 1.0
+      },
+      {
+        "priority": "P2 EDD",
+        "cases": 63,
+        "bad": 42,
+        "precision": 0.667
+      },
+      {
+        "priority": "P3 review",
+        "cases": 163,
+        "bad": 0,
+        "precision": 0.0
+      }
+    ],
+    "exposure": [
+      {
+        "typology": "fake_store",
+        "merchants": 60.0,
+        "caught": 60.0,
+        "volume_rs": 131582010.0,
+        "volume_after_alert_rs": 108004010.0,
+        "share_stoppable": 0.821
+      },
+      {
+        "typology": "mule_laundering",
+        "merchants": 55.0,
+        "caught": 55.0,
+        "volume_rs": 987345859.0,
+        "volume_after_alert_rs": 948122701.0,
+        "share_stoppable": 0.96
+      },
+      {
+        "typology": "sanctions_match",
+        "merchants": 6.0,
+        "caught": 0.0,
+        "volume_rs": 11014983.0,
+        "volume_after_alert_rs": 0.0,
+        "share_stoppable": 0.0
+      },
+      {
+        "typology": "transaction_laundering",
+        "merchants": 50.0,
+        "caught": 50.0,
+        "volume_rs": 100633950.0,
+        "volume_after_alert_rs": 86310900.0,
+        "share_stoppable": 0.858
+      }
+    ],
+    "alerts_per_week": 13.4
+  },
+  "chargebacks": {
+    "total": 4475,
+    "fraud_coded": 2144,
+    "fraud_share_from_fake_stores": 0.693,
+    "fake_store_merchants": 60,
+    "represented": 1277,
+    "represented_won": 708,
+    "arbitration": 86,
+    "by_group": {
+      "fraud": 2144,
+      "consumer_dispute": 1403,
+      "technical": 928
+    }
+  },
+  "portfolio": {
+    "merchants": 2500,
+    "transactions": 1702814,
+    "volume_cr": 549.3,
+    "bad_merchants": 171,
+    "bad_by_typology": {
+      "fake_store": 60,
+      "mule_laundering": 55,
+      "transaction_laundering": 50,
+      "sanctions_match": 6
+    }
+  }
+}

@@ -1,0 +1,8 @@
+network,reason_code,reason_desc,reason_group,chargebacks,amount_rs
+mastercard,4837.0,No cardholder authorisation,fraud,1077,5852777.01
+visa,10.4,"Other fraud, card-absent",fraud,1067,5033275.9
+mastercard,4855.0,Goods or services not provided,consumer_dispute,488,2945100.41
+visa,12.6,Duplicate processing,technical,470,2474521.33
+visa,13.1,Merchandise/services not received,consumer_dispute,460,2255561.17
+mastercard,4834.0,Point-of-interaction error,technical,458,2735507.33
+visa,13.3,Not as described,consumer_dispute,455,2499523.41
